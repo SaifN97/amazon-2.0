@@ -10,7 +10,7 @@ const success = () => {
       <main className="max-w-screen-lg mx-auto">
         <div className="flex flex-col p-10 bg-white">
           <div className="flex items-center space-x-2 mb-5">
-            <CheckCircleIcon className="bg-green-500 h-10" />
+            <CheckCircleIcon className="text-green-500 h-10" />
             <h1 className="text-3xl">
               Thank You!, your order has been confirmed!
             </h1>
